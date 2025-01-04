@@ -1,17 +1,17 @@
 # Projet_IA_Algorithme_ABC
 Projet d'IA sur l'étude de l'algorithme Artifical Bee Colonies (ABC)
 
-Objectif du projet :
+# Objectif du projet :
 
 1.Étudier et comprendre le fonctionnement de l'algorithme ABC.
 
 2.Comparer ses performances à travers deux implémentations : en Python et en C++.
 
-Contexte
+# Contexte
 
 L'étude s'inscrit dans le cadre d'un cours d'Intelligence Artificielle et explore les métaheuristiques, des algorithmes d'optimisation inspirés de comportements naturels. L'algorithme ABC, inspiré des colonies d'abeilles, est utilisé pour résoudre des problèmes complexes d'optimisation.
 
-Méthodologie
+# Méthodologie
 
 Phase d'analyse :
 

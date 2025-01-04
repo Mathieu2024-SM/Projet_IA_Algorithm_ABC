@@ -1,4 +1,4 @@
-# Projet_IA_Algorithm_ABC
+# Projet_IA_Algorithme_ABC
 Projet d'IA sur l'étude de l'algorithme Artifical Bee Colonies (ABC)
 
 Objectif du projet :

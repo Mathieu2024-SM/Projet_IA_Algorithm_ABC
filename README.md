@@ -49,7 +49,7 @@ Phase d'évaluation :
 ATTENTION : petite correction à faire dans le fichier optimizer.py de la bibliothèque "mealpy" : changer la ligne 625 : #if list_fitness.ptp() == 0: par if np.ptp(list_fitness) == 0: (si vous utilisez NumPy 2.0 ou une version plus récente)
 
 ATTENTION : pour éviter l'affichage de "2025/01/04 02:18:14 PM, INFO, mealpy.swarm_based.ABC.OriginalABC: >>>Problem: P, Epoch: 528, Current best: 288.1531068963579, Global best: 242.9776921578927, Runtime: 0.00556 seconds" dans la console
---> ligne 270 et 271 du fichier optimizer.py -> metre en #
+--> ligne 270 et 271 du fichier optimizer.py -> mettre en #
 
 # Accès direct aux fichier
 --> allez dans l'onglet "main" --> selctionnez Projet_IA_ABC_acces_code

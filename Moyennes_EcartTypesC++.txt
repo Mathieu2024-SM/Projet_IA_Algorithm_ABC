@@ -1,0 +1,15 @@
+Rosenbrock
+Moyenne : 68.0116
+Ecart type : 22.3002
+
+Rastrigin
+Moyenne : 262.654
+Ecart type : 18.0157
+
+Ackley
+Moyenne : 1.09679
+Ecart type : 0.227904
+
+Schwefel
+Moyenne : 8169.22
+Ecart type : 328.611

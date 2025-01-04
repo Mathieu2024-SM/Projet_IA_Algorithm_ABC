@@ -50,3 +50,6 @@ ATTENTION : petite correction à faire dans le fichier optimizer.py de la biblio
 
 ATTENTION : pour éviter l'affichage de "2025/01/04 02:18:14 PM, INFO, mealpy.swarm_based.ABC.OriginalABC: >>>Problem: P, Epoch: 528, Current best: 288.1531068963579, Global best: 242.9776921578927, Runtime: 0.00556 seconds" dans la console
 --> ligne 270 et 271 du fichier optimizer.py -> metre en #
+
+# Accès direct aux fichier
+--> allez dans "branch"

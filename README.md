@@ -15,18 +15,18 @@ Méthodologie
 
 Phase d'analyse :
 
-Étude théorique des articles scientifiques sur ABC.
+1.Étude théorique des articles scientifiques sur ABC.
 
-Analyse d'un code Python implémentant ABC.
+2.Analyse d'un code Python implémentant ABC.
 
 Phase de développement :
 
-Implémentation en Python et en C++ de l'algorithme.
+1.Implémentation en Python et en C++ de l'algorithme.
 
-Test des deux versions sur des fonctions objectifs (Rastrigin, Ackley, Schwefel, et Rosenbrock).
+2.Test des deux versions sur des fonctions objectifs (Rastrigin, Ackley, Schwefel, et Rosenbrock).
 
 Phase d'évaluation :
 
-Comparaison des performances (temps d'exécution, précision).
+1.Comparaison des performances (temps d'exécution, précision).
 
-Analyse des résultats via des graphiques.
+2.Analyse des résultats via des graphiques.

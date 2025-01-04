@@ -52,4 +52,4 @@ ATTENTION : pour éviter l'affichage de "2025/01/04 02:18:14 PM, INFO, mealpy.sw
 --> ligne 270 et 271 du fichier optimizer.py -> metre en #
 
 # Accès direct aux fichier
---> allez dans "branch" --> selctionnez Projet_IA_ABC_Acces_direc_Code
+--> allez dans "branch" --> selctionnez Projet_IA_ABC_acces_code
